@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "legencysmp.falix.pro",
+    "port": 23035,
+    "version": "1.26.13",
     "try-creative": false
   },
   "position": {
